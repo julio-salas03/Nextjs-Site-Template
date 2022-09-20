@@ -9,12 +9,15 @@
     "lint": "next lint",
     "format": "npx prettier --write .",
     "check": "npx prettier --check .",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "icon": "node scripts/icons.js"
   },
   "dependencies": {
+    "classnames": "^2.3.2",
     "dotenv": "^16.0.2",
     "next": "12.3.1",
     "pretty-quick": "^3.1.3",
+    "prompt": "^1.3.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
