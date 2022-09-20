@@ -33,12 +33,12 @@ Creates a `.tsx`, `.stories.tsx` and `index.ts` (export file) files with the pro
 - Since the component is exported on the `index.ts`, find the new component is fairly easy (you just need to search the `component-name`).
 - Helps keeping order in the codebase.
 
-### npm run icons
+### npm run icon
 
 #### Command
 
 ```sh
-npm run icons [icon-name]
+npm run icon [icon-name]
 ```
 
 #### Description
