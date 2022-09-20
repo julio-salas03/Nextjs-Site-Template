@@ -54,4 +54,8 @@ Creates a SVG `.tsx` file with the provided `icon-name` and the prefix `Icon`. D
 
 # [Special Thanks](#special-thanks 'Go to spacial-thanks')
 
-- @juanpasolano
+These guys also contributed to make this system possible:
+
+- [@juanpasolano](https://github.com/juanpasolano)
+- [@nerami](https://github.com/nerami)
+- [@sergioegb](https://github.com/sergioegb)
