@@ -22,9 +22,13 @@ Creates a SVG `.tsx` file with the provided `icon-name` and the prefix `Icon`. D
 
 ## npm run icons
 
+### Command
+
 ```sh
 npm run icons [icon-name]
 ```
+
+### Description
 
 Creates a SVG `.tsx` file with the provided `icon-name` and the prefix `Icon`. Don't forget to add the content of the file inside of it
 
