@@ -25,8 +25,7 @@ npm run component [component-name] [folder]
 
 #### Description
 
-Creates a `.tsx`, `.stories.tsx` and `index.ts` (export file) files with the provided `component-name` inside the specified `folder`
-/home/juli03/work/nextjs-site-template/scripts
+Creates a `.tsx`, `.stories.tsx` and `index.ts` (export file) files with the provided `component-name` inside the specified `folder`.
 
 #### Why should I use it?
 
