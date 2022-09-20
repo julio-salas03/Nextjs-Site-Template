@@ -10,6 +10,7 @@
     "format": "npx prettier --write .",
     "check": "npx prettier --check .",
     "prepare": "husky install",
+    "component": "node scripts/scaffold.js",
     "icon": "node scripts/icons.js",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
