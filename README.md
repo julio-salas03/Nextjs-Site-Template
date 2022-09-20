@@ -2,9 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Overview
 
-# Table of Content
+# Table of Contents
 
-# Getting Started
+- [Useful scripts](#overview 'Go to overview')
+- [Useful scripts](#useful-scripts 'Go to useful-scripts')
+
+# [Overview](#overview 'Go to overview')
 
 # [Useful scripts](#useful-scripts 'Go to useful-scripts')
 
